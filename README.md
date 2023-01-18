@@ -8,3 +8,7 @@ Each critter follows a “Critter Program” that determines how the critter wil
 
 
 more details about the project are here: https://www.cs.cornell.edu/courses/cs2112/2022fa/project/project.pdf?1668394201
+
+
+
+<img width="1132" alt="image" src="https://user-images.githubusercontent.com/99925709/213065454-dfcf1b95-eb60-4d88-985d-2dc4f9974774.png">
