@@ -1,4 +1,4 @@
-# CritterWorld
+# Critter World
 
 Unfortunately, the academic integrity policies at Cornell University prohibit making source code from course projects publically available. However feel free to contact me, if you find this project interesting and wish to view the source code!
 
